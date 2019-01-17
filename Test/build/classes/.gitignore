@@ -1,0 +1,9 @@
+/applicationContext-mybatis.xml
+/controller/
+/dao/
+/entity/
+/mybatis-config.xml
+/service/
+/springmvc-servlet.xml
+/test/
+/utitiy/

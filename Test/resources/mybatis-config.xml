@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+
+<configuration>
+	<!-- 设置自动映射级别    为自动映射
+	<settings>
+		<setting name="autoMappingBehavior" value="FULL"/>
+	</settings>
+	 -->
+	
+
+	<!-- 给实体类，取别名 
+	
+	-->
+ 	<typeAliases>
+ 		<package name="entity"/>
+ 	</typeAliases>
+
+
+</configuration>
